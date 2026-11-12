@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix E-Learning Pondok Pesantren",
+  "description": "Sistem Informasi \u0026 E-Learning Ponpes El Bayan 2 modern untuk santri, ustaz, dan admin dengan pengelolaan materi kitab, tugas, kuis, dan nilai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
